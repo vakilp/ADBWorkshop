@@ -1,0 +1,4 @@
+v1
+{"path":"wasbs://source@adbworkshops.blob.core.windows.net/initech/streaming/orders/data/part-00000-840a7094-0ac5-4ed2-82b4-6281cf5f6c32-c000.csv","size":5200,"isDir":false,"modificationTime":1520126842000,"blockReplication":1,"blockSize":536870912,"action":"add"}
+{"path":"wasbs://source@adbworkshops.blob.core.windows.net/initech/streaming/orders/data/part-00001-8eb67e51-eb57-4780-8867-658cfb8ce7cd-c000.csv","size":5203,"isDir":false,"modificationTime":1520126842000,"blockReplication":1,"blockSize":536870912,"action":"add"}
+{"path":"wasbs://source@adbworkshops.blob.core.windows.net/initech/streaming/orders/data/part-00002-9f050dce-6a4c-42de-bd63-5062df951650-c000.csv","size":5199,"isDir":false,"modificationTime":1520126842000,"blockReplication":1,"blockSize":536870912,"action":"add"}

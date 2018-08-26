@@ -1,0 +1,2 @@
+v1
+{"path":"wasbs://source@adbworkshops.blob.core.windows.net/initech/streaming/orders/data/part-00000-1814c789-3471-4e77-be90-20017c9643e6-c000.csv","size":0,"isDir":false,"modificationTime":1520127001000,"blockReplication":1,"blockSize":536870912,"action":"add"}
